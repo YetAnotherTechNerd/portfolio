@@ -20,9 +20,9 @@ permalink: index
 > [!abstract] **The state of AI research series**
 > Orchestrated the positioning copy, analytical reporting, and multimedia scripting pipelines for annual flagship technical releases.
 > - **The state of AI 2026 report:** [Vention AI Report (2026)](https://ventionteams.com/solutions/ai/report)
->   - *Companion video:* [YouTube Broadcast (2026)](https://www.youtube.com/watch?v=NIxbFMKrWQw)
+>   - *Companion video:* [YouTube](https://www.youtube.com/watch?v=NIxbFMKrWQw)
 > - **The state of AI 2025 report:** [Vention AI Report (2025)](https://ventionteams.com/solutions/ai/report/2025)
->   - *Companion video:* [YouTube Broadcast (2025)](https://www.youtube.com/watch?v=IK__LcgVaZw)
+>   - *Companion video:* [YouTube](https://www.youtube.com/watch?v=IK__LcgVaZw)
 
 ### 🛠️ Core service architecture pages
 *Technical landing pages mapping high-level engineering capabilities to direct commercial value.*
@@ -34,14 +34,14 @@ permalink: index
 
 ### 📈 Enterprise B2B case studies
 *Direct production lifecycle coordination from developer interviews through design layout approval.*
-- **Postman execution:** [Postman Case Study](https://ventionteams.com/our-work/postman)
-- **Comet execution:** [Comet Case Study](https://ventionteams.com/our-work/comet)
-- **Vexcel execution:** [Vexcel Case Study](https://ventionteams.com/our-work/vexcel)
-- **Cranbrook execution:** [Cranbrook Case Study](https://ventionteams.com/our-work/cranbrook)
-- **Digital assets:** [NFT Exchange Platform Architecture](https://ventionteams.com/our-work/nft-exchange-platform)
+- **Game development:** [Case study](https://ventionteams.com/our-work/postman)
+- **AI:** [Case study](https://ventionteams.com/our-work/comet)
+- **Data engineering:** [Case study](https://ventionteams.com/our-work/vexcel)
+- **EdTech:** [Case study](https://ventionteams.com/our-work/cranbrook)
+- **Digital assets:** [Case study](https://ventionteams.com/our-work/nft-exchange-platform)
 
 ### 🔬 Open innovation and incubators
-- **International Innovation Day:** [In:Vention Incubator and Transformation Lab](https://ventionteams.com/international-invention-day)
+- **International Invention Day:** [In:Vention Incubator and Transformation Lab](https://ventionteams.com/international-invention-day)
 
 ---
 
