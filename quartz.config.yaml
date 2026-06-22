@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/YetAnotherTechNerd/portfolio
+  baseUrl: YetAnotherTechNerd.github.io/portfolio
   ignorePatterns:
     - private
     - templates
